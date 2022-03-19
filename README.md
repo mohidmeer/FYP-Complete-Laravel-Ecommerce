@@ -66,7 +66,7 @@ Many more....
 10. php artisan serve or use virtual host
 11. Visit localhost:8000 in your browser
 12. Visit /admin if you want to access the admin panel. Admin Email/Password: admin@gmail.com/1111. User Email/Password: user@gmail.com/1111
-13. Still Working On it Integrating It With Angular Framework For Further Upscalimg 
+13. Still Working On it Integrating It With <h3>Angular Framework</h3>  For Further Upscalimg 
 
 <p style="text-align:center">Thank You so much for your time !!!</p>
 
